@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋 I'm Sridevi
+
+- 🔭 I’m an Educator, Researcher, and NVIDIA DLI Certified Instructor
+- 🌱 I’m currently learning Natural Language Processing
+
 
 <!--
 **sridevibonthu/sridevibonthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
