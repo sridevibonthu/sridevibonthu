@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Sridevi
 
 - 🔭 I’m an Educator, Researcher, and NVIDIA DLI Certified Instructor
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m a PhD Scholar and actively learning and doing Natural Language Processing
 
 ![Sridevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sridevibonthu&theme=dark&show_icons=true)
 
